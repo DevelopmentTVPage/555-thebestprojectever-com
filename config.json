@@ -1,0 +1,15 @@
+{
+    "title": "My Project",
+    "baseURL": "https:\/\/thebestprojectever.com\/newproject",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": null,
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/newproject",
+        "firstpartycookies": true,
+        "cookiedomain": "thebestprojectever.com"
+    }
+}
